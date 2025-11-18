@@ -4,7 +4,7 @@
 2;lines_bending_moment;Biegemoment qualitativ;lines;orange;0;0;0;1;0;0;0;0;0;0;0;0
 3;lines_cable;Spannglied;lines;blue;0;0;0;0;0;0;1;1;1;1;1;0
 4;lines_cable_geometry;Spannglied Bemaßung;lines;white;0;0;0;0;0;0;0;1;0;0;0;0
-5;mesh_columns;Stützen;mesh;concrete;0;0;1;1;0;1;1;1;0;0;0;1
+5;mesh_columns;Stützen;mesh;concrete;1;0;1;1;0;1;1;1;0;0;0;1
 6;mesh_cross_section;Querschnitt ;mesh;concrete;0;1;0;0;0;0;0;0;0;0;0;0
 7;mesh_cross_section_b_eff;Querschnitt mit effektiver Breite;mesh;concrete;0;0;0;0;1;0;0;0;0;0;0;0
 8;arrow_diagram_axes;Achsen Diagramm;arrows;white;0;0;0;0;0;0;0;0;0;1;1;0
